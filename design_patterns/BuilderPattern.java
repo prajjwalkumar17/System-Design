@@ -1,5 +1,9 @@
 package design_patterns;
 
+/**
+ * BuilderPattern
+*/
+
 class phone {
   public static void main(String[] args) {
     PhoneBuilder ph = new PhoneBuilder().setOs("android").setScreenSize(21).getPhone();

@@ -2,7 +2,7 @@ package design_patterns;
 
 /**
  * FactoryPattern
- */
+*/
 
 class MobileStore{
   public static void main(String[] args) {

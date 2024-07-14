@@ -1,5 +1,9 @@
 package design_patterns;
 
+/**
+ * AdapterPattern
+*/
+
 class College {
   public static void main(String[] args) {
     // You got this from your friend
